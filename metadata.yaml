@@ -1,0 +1,38 @@
+_repo: '---------------------1_39764'
+_version: 0.1.0
+alternative_title: Anabasis, Volume 1
+contributor:
+  translator:
+    agent_name: Anastasopoulos, Demetrios
+    alias: Anastasopoulos, Dimitrios
+    birthdate: 1873
+    gutenberg_agent_id: '40217'
+    url: http://www.gutenberg.org/2009/agents/40217
+covers:
+- cover_type: archival
+  image_path: 39764-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+description: ''
+gutenberg_issued: '2012-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39764'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greece -- History -- Expedition of Cyrus, 401 B.C.'
+- !lcsh 'Cyrus, the Younger, approximately 423 B.C.-401 B.C.'
+- !lcsh 'Iran -- History -- To 640'
+title: Κύρου Ανάβασις Τόμος 1
+url: http://www.gutenberg.org/ebooks/39764
